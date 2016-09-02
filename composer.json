@@ -20,14 +20,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-        "bower-asset/timecircles": "*"
+        "yiisoft/yii2": "*"
     },
-    "autoload": {
-        "psr-4": {
-            "tsanchev\\timecircles\\": "src"
-        }
-    },
+    
     "extra": {
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
