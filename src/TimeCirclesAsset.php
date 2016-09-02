@@ -15,19 +15,19 @@ class TimeCirclesAsset extends \yii\web\AssetBundle
     /**
      * {@inheritdoc}
      */
-    public $sourcePath = '@bower/timecircles/src/';
+    public $sourcePath = '@bower/timecircles/inc/';
 
     /**
      * {@inheritdoc}
      */
     public $js = [
-        'js/TimeCircles.min.js',
+        'TimeCircles.min.js',
     ];
 
     /**
      * {@inheritdoc}
      */
     public $css = [
-        'css/TimeCircles.css',
+        'TimeCircles.css',
     ];
 }
