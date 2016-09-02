@@ -21,7 +21,7 @@ class TimeCirclesAsset extends \yii\web\AssetBundle
      * {@inheritdoc}
      */
     public $js = [
-        'TimeCircles.min.js',
+        'TimeCircles.js',
     ];
 
     /**
