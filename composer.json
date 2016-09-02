@@ -2,7 +2,6 @@
     "name": "tsanchev/yii2-timecircles",
     "type": "yii2-extension",
     "description": "Yii2 asset for bower TimeCircles",
-    
     "keywords": [
         "timecircles",
         "asset",
@@ -20,11 +19,15 @@
             "email": "tsanchev@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "bower-asset/timecircles": "*"
     },
-    
+    "autoload": {
+        "psr-4": {
+            "tsanchev\\timecircles\\": "src"
+        }
+    },
     "extra": {
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
