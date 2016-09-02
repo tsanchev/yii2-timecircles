@@ -2,6 +2,7 @@
     "name": "tsanchev/yii2-timecircles",
     "type": "yii2-extension",
     "description": "Yii2 asset for bower TimeCircles",
+    
     "keywords": [
         "timecircles",
         "asset",
@@ -19,6 +20,7 @@
             "email": "tsanchev@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "*"
     },
