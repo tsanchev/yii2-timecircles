@@ -1,10 +1,10 @@
 <?php
 
 /*
- * Yii 2 asset for bower LightBox2
+ * Yii 2 asset for bower TimeCircles
  *
- * @link      https://github.com/tsanchev/yii2-lightbox2
- * @package   yii2-asset-lightbox2
+ * @link      https://github.com/tsanchev/yii2-timecircles
+ * @package   yii2-asset-TimeCircles
  * @license   BSD-3-Clause
  */
 
